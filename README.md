@@ -1,4 +1,7 @@
 # Menagerie
+
+Menagerie is a Pathfinder 1e summoned creature manager for Android. It's functions include a thorough bestiary of over 1.5k monsters.
+
 Privacy Policy — Menagerie
 Nautilus Software, LLC
 Effective Date: May 20, 2026
