@@ -50,6 +50,6 @@ If this privacy policy changes in a future version of the app, the updated polic
 Contact
 If you have any questions about this privacy policy, please contact:
 Nautilus Software, LLC
-Email: (add your contact email here)
+Email: nautilusware@gmail.com
 
 This privacy policy applies to Menagerie for Android, version 1.0 and later.
